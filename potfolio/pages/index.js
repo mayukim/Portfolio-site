@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <Layout>
             <Head>
-                <title>김마유 포트폴리오</title>
+                <title>김마유's 포트폴리오</title>
                 <meta name="description" content="오늘도 빡코딩" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
